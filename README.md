@@ -121,7 +121,14 @@
 + [高德地图](#高德地图)
 + [微众银行](#微众银行)
 + [37手游](#37手游)
-
++ [京东](#京东)
++ [度小满](#度小满)
++ [shein](#shein)
++ [shopee](#shopee)
++ [作业帮](#作业帮)
++ [闲鱼小铺](#闲鱼小铺)
++ [转转前端](#转转前端)
++ [钉钉](#钉钉)
 
 #### Deepseek
 
@@ -144,6 +151,16 @@ https://gitee.com/baidu
 ```java
 https://github.com/baidu-research
 ```
+#### shein
+
+```java
+https://github.com/sheinsight
+```
+#### 作业帮
+
+```java
+https://github.com/zuoyebang
+```
 
 #### 百度前端
 
@@ -155,7 +172,15 @@ https://github.com/BaiduFE
 ```java
 https://github.com/37MobileTeam
 ```
+#### 度小满
 
+```java
+https://github.com/Duxiaoman-DI
+```
+#### 转转前端
+```java
+https://github.com/zhuanzhuanfe
+```
 #### 蚂蚁集团
 
 ```java
@@ -163,6 +188,16 @@ https://gitee.com/sofastack
 ```
 ```java
 https://gitee.com/alipay
+```
+#### 京东
+
+```java
+https://github.com/jd-opensource
+```
+#### 闲鱼小铺
+
+```java
+https://github.com/goofish-shop
 ```
 
 #### 飞致云
@@ -180,6 +215,19 @@ https://github.com/yyued
 ```java
 https://github.com/larksuite
 ```
+#### 钉钉
+
+```java
+https://github.com/open-dingtalk
+```
+
+
+#### shopee
+
+```java
+https://github.com/Shopee
+```
+
 #### 高德地图
 
 ```java

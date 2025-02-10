@@ -40,6 +40,7 @@
 + [摩拜单车](#摩拜单车)
 + [汽车之家](#汽车之家)
 + [安居客房产](#安居客房产)
++ [阿里云](#阿里云)
 + [美图](#美图)
 + [美柚App](#美柚app)
 + [微店技术团队](#微店技术团队)
@@ -137,7 +138,11 @@ https://github.com/Tencent
 ```java
 https://gitee.com/JD-opensource
 ```
+#### 阿里云
 
+```java
+https://github.com/aliyun
+```
 
 #### 人人
 ```java

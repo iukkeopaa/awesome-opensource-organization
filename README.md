@@ -27,6 +27,7 @@
 ## 目录
 + [滴滴开源](#滴滴开源)
 + [百度](#百度)
++ [百度前端](#百度前端)
 + [蚂蚁集团](#蚂蚁集团)
 + [飞致云](#飞致云)
 + [搜狗](#搜狗)
@@ -55,11 +56,17 @@
 + [华为大数据](#华为大数据)
 + [快手](#快手)
 + [陌陌](#陌陌)
++ [腾讯AILab](#腾讯AILab)
 + [美丽联合集团](#美丽联合集团)
 + [聚美优品](#聚美优品)
 + [阿里巴巴云栖社区](#阿里巴巴云栖社区)
 + [阿里妈妈前端团队](#阿里妈妈前端团队)
++ [阿里巴巴研究院](#阿里巴巴研究院)
++ [阿里技术](#阿里技术)
++ [阿里巴巴达摩院](#阿里巴巴达摩院)
++ [阿里Ai](#阿里Ai)
 + [网易](#网易)
++ [腾讯ARCLab](#腾讯ARCLab)
 + [饿了吗](#饿了吗)
 + [当当网](#当当网)
 + [唯品会](#唯品会)
@@ -67,6 +74,7 @@
 + [知乎](#知乎)
 + [大众点评](#大众点评)
 + [360](#360)
++ [腾讯云](#腾讯云)
 + [微信团队](#微信团队)
 + [美团](#美团)
 + [芒果TV](#芒果tv)
@@ -83,10 +91,23 @@
 + [七牛云](#七牛云)
 + [腾讯AlloyTeam](#腾讯alloyteam)
 + [doocs](#doocs)
++ [腾讯AILab-CVC](#腾讯AILab-CVC)
 + [华为](#华为)
 + [阿里巴巴](#阿里巴巴)
 + [字节跳动](#字节跳动)
 + [0voice](#0voice)
++ [百度Ai平台](#百度Ai平台)
++ [百度智能云](#百度智能云)
++ [美图影像研究院](#美图影像研究院)
++ [华为云](#华为云)
++ [华为诺亚方舟实验室](#华为诺亚方舟实验室)
++ [快手视觉生成与交互中心](#快手视觉生成与交互中心)
++ [网易自动化项目](#网易自动化项目)
++ [网易有道](#网易有道)
++ [网易云音乐](#网易云音乐)
++ [网易游戏](#网易游戏)
++ [网易新闻](#网易新闻)
++ [饿了么前端](#饿了么前端)
 
 #### 滴滴开源
 
@@ -103,6 +124,12 @@ https://gitee.com/baidu
 ```
 ```java
 https://github.com/baidu-research
+```
+
+#### 百度前端
+
+```java
+https://github.com/BaiduFE
 ```
 
 #### 蚂蚁集团
@@ -131,6 +158,16 @@ https://gitee.com/sogou
 ```java
 https://github.com/alibaba-developer
 ```
+#### 百度Ai平台
+
+```java
+https://github.com/Baidu-AIP
+```
+#### 百度智能云
+
+```java
+https://github.com/baidubce
+```
 
 #### 腾讯
 ```java
@@ -138,6 +175,34 @@ https://gitee.com/Tencent
 ```
 ```java
 https://github.com/Tencent
+```
+
+#### 华为诺亚方舟实验室
+
+```java
+https://github.com/huawei-noah
+```
+
+#### 网易有道
+
+```java
+https://github.com/netease-youdao
+```
+#### 网易云音乐
+
+```java
+https://github.com/UnblockNeteaseMusic
+```
+
+#### 网易游戏
+
+```java
+https://github.com/NetEaseGame
+```
+#### 网易新闻
+
+```java
+https://github.com/NetEase-Media
 ```
 
 #### 京东
@@ -149,6 +214,39 @@ https://gitee.com/JD-opensource
 
 ```java
 https://github.com/aliyun
+```
+#### 阿里巴巴研究院
+
+```java
+https://github.com/AlibabaResearch
+```
+#### 腾讯AILab-CVC
+
+```java
+https://github.com/AILab-CVC
+```
+
+#### 阿里Ai
+
+```java
+https://github.com/HumanAIGC
+```
+
+#### 阿里技术
+
+```java
+https://github.com/Alibaba-Technology
+```
+#### 腾讯AILab
+
+```java
+https://github.com/tencent-ailab
+```
+
+#### 阿里巴巴达摩院
+
+```java
+https://github.com/alibaba-damo-academy
 ```
 
 #### 人人
@@ -173,6 +271,11 @@ https://github.com/MiCode
 ```java
 https://github.com/XiaoMi
 ```
+#### 腾讯云
+
+```java
+https://github.com/tencentyun
+```
 
 #### 人人二手车
 ```java
@@ -185,6 +288,12 @@ https://github.com/renrenche
 https://github.com/mobiker
 ```
 
+#### 腾讯ARCLab
+
+
+```java
+https://github.com/TencentARC
+```
 
 #### 汽车之家
 ```java
@@ -205,6 +314,11 @@ https://github.com/meitu
 #### 美柚App
 ```java
 https://github.com/MeetYouDevs
+```
+#### 美图影像研究院 
+
+```java
+https://github.com/MTLab
 ```
 
 #### 微店技术团队
@@ -255,6 +369,11 @@ https://github.com/apachecn
 ```java
 https://github.com/Huawei-Hadoop
 ```
+#### 华为云
+
+```java
+https://github.com/huaweicloud
+```
 
 #### 快手
 ```java
@@ -285,9 +404,15 @@ https://github.com/thx
 https://github.com/NetEase
 ```
 
-#### 饿了吗
+#### 饿了么
 ```java
 https://github.com/eleme
+```
+
+#### 饿了么前端
+
+```java
+https://github.com/ElemeFE
 ```
 
 #### 豆瓣
@@ -298,6 +423,15 @@ https://github.com/douban
 #### 当当网
 ```java
 https://github.com/dangdangdotcom
+```
+#### 快手视觉生成与交互中心
+
+```java
+https://github.com/KwaiVGI
+```
+#### 网易自动化项目
+```java
+https://github.com/AirtestProject
 ```
 
 #### 唯品会

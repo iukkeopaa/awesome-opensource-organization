@@ -108,6 +108,7 @@
 + [网易游戏](#网易游戏)
 + [网易新闻](#网易新闻)
 + [饿了么前端](#饿了么前端)
++ [Oppo](#Oppo)
 
 #### 滴滴开源
 
@@ -204,7 +205,10 @@ https://github.com/NetEaseGame
 ```java
 https://github.com/NetEase-Media
 ```
-
+#### Oppo
+```java
+https://github.com/oppo
+```
 #### 京东
 
 ```java

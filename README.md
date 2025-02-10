@@ -57,6 +57,7 @@
 + [陌陌](#陌陌)
 + [美丽联合集团](#美丽联合集团)
 + [聚美优品](#聚美优品)
++ [阿里巴巴云栖社区](#阿里巴巴云栖社区)
 + [阿里妈妈前端团队](#阿里妈妈前端团队)
 + [网易](#网易)
 + [饿了吗](#饿了吗)
@@ -123,6 +124,12 @@ https://gitee.com/fit2cloud-feizhiyun
 
 ```java
 https://gitee.com/sogou
+```
+
+#### 阿里巴巴云栖社区
+
+```java
+https://github.com/alibaba-developer
 ```
 
 #### 腾讯

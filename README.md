@@ -25,7 +25,10 @@
 ⭐ 别太过分苛刻要求自己，也别让自己太舒服
 
 ## 目录
+
+
 + [滴滴开源](#滴滴开源)
++ [Deepseek](#Deepseek)
 + [百度](#百度)
 + [百度前端](#百度前端)
 + [蚂蚁集团](#蚂蚁集团)
@@ -109,7 +112,15 @@
 + [网易新闻](#网易新闻)
 + [饿了么前端](#饿了么前端)
 + [Oppo](#Oppo)
++ [斗鱼Tv](#斗鱼Tv)
++ [YY](#YY)
 
+
+#### Deepseek
+
+```java
+https://github.com/deepseek-ai
+```
 #### 滴滴开源
 
 ```java
@@ -146,6 +157,11 @@ https://gitee.com/alipay
 
 ```java
 https://gitee.com/fit2cloud-feizhiyun
+```
+#### YY
+
+```java
+https://github.com/yyued
 ```
 
 #### 搜狗
@@ -189,6 +205,13 @@ https://github.com/huawei-noah
 ```java
 https://github.com/netease-youdao
 ```
+
+#### 斗鱼Tv
+
+```java
+https://github.com/douyu
+```
+
 #### 网易云音乐
 
 ```java
@@ -565,3 +588,14 @@ https://github.com/bytedance
 ```java
 https://github.com/0voice
 ```
+
+## 贡献
+
+`内容很多，但不仅仅只有这些` **欢迎补充!!!** **欢迎添加!!!** **欢迎搜集!!!** 🥳
+`内容很多，但不仅仅只有这些` **欢迎补充!!!** **欢迎添加!!!** **欢迎搜集!!!** 🥳
+`内容很多，但不仅仅只有这些` **欢迎补充!!!** **欢迎添加!!!** **欢迎搜集!!!** 🥳
+🙇‍♂️
+这些都是我目前接触到的一些优秀的开源团队和公司，但我相信绝不仅仅只有这些，甚至多到我无法想象，所以如果你知道更多对应的公司和开源团队，欢迎您在issues下补充。
+
+💪💪💪 ``` 收集不是目的，学习才是 ```
+

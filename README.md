@@ -114,6 +114,13 @@
 + [Oppo](#Oppo)
 + [斗鱼Tv](#斗鱼Tv)
 + [YY](#YY)
++ [新浪微博](#新浪微博)
++ [腾讯音乐](#腾讯音乐)
++ [同城旅行](#同城旅行)
++ [飞书](#飞书)
++ [高德地图](#高德地图)
++ [微众银行](#微众银行)
++ [37手游](#37手游)
 
 
 #### Deepseek
@@ -143,6 +150,11 @@ https://github.com/baidu-research
 ```java
 https://github.com/BaiduFE
 ```
+#### 37手游
+
+```java
+https://github.com/37MobileTeam
+```
 
 #### 蚂蚁集团
 
@@ -163,11 +175,46 @@ https://gitee.com/fit2cloud-feizhiyun
 ```java
 https://github.com/yyued
 ```
+#### 飞书
+
+```java
+https://github.com/larksuite
+```
+#### 高德地图
+
+```java
+https://github.com/amapapi
+```
+
+```java
+https://github.com/amap-demo
+```
 
 #### 搜狗
 
 ```java
 https://gitee.com/sogou
+```
+
+#### 新浪微博
+
+```java
+https://github.com/sinaweibosdk
+```
+#### 微众银行
+
+```java
+https://github.com/WeBankFinTech
+```
+#### 腾讯音乐
+
+```java
+https://github.com/TMElyralab
+```
+#### 同城旅行
+
+```java
+https://github.com/tongcheng-security-team
 ```
 
 #### 阿里巴巴云栖社区

@@ -133,6 +133,7 @@
 + [钉钉](#钉钉)
 + [腾讯蓝鲸智云](#腾讯蓝鲸智云)
 + [字节跳动推出的开源中间件集](#字节跳动推出的开源中间件集)
++ [字节跳动前端团队](#字节跳动前端团队)
 
 #### Deepseek
 
@@ -218,6 +219,11 @@ https://github.com/yyued
 
 ```java
 https://github.com/larksuite
+```
+#### 字节跳动前端团队
+
+```java
+https://github.com/web-infra-dev
 ```
 
 #### 腾讯蓝鲸智云

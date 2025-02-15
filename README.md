@@ -132,6 +132,7 @@
 + [转转前端](#转转前端)
 + [钉钉](#钉钉)
 + [腾讯蓝鲸智云](#腾讯蓝鲸智云)
++ [字节跳动推出的开源中间件集](#字节跳动推出的开源中间件集)
 
 #### Deepseek
 
@@ -236,6 +237,11 @@ https://github.com/open-dingtalk
 
 ```java
 https://github.com/Shopee
+```
+#### 字节跳动推出的开源中间件集
+
+```java
+https://github.com/cloudwego
 ```
 
 #### 高德地图

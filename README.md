@@ -134,6 +134,7 @@
 + [腾讯蓝鲸智云](#腾讯蓝鲸智云)
 + [字节跳动推出的开源中间件集](#字节跳动推出的开源中间件集)
 + [字节跳动前端团队](#字节跳动前端团队)
++ [阿里云容器服务](#阿里云容器服务)
 
 #### Deepseek
 
@@ -186,6 +187,14 @@ https://github.com/Duxiaoman-DI
 ```java
 https://github.com/zhuanzhuanfe
 ```
+
+
+#### 阿里云容器服务
+
+```java
+https://github.com/AliyunContainerService
+```
+
 #### 蚂蚁集团
 
 ```java

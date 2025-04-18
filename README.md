@@ -135,6 +135,8 @@
 + [字节跳动推出的开源中间件集](#字节跳动推出的开源中间件集)
 + [字节跳动前端团队](#字节跳动前端团队)
 + [阿里云容器服务](#阿里云容器服务)
++ [同城旅游1](#同城旅游1)
++ [涂鸦](#涂鸦)
 
 #### Deepseek
 
@@ -213,7 +215,11 @@ https://github.com/jd-opensource
 ```java
 https://github.com/goofish-shop
 ```
+#### 涂鸦
 
+```java
+https://github.com/tuya
+```
 #### 飞致云
 
 ```java
@@ -246,7 +252,11 @@ https://gitee.com/Tencent-BlueKing
 ```java
 https://github.com/open-dingtalk
 ```
+#### 同城旅游1
 
+```java
+https://github.com/TongchengOpenSource
+```
 
 #### shopee
 

@@ -137,6 +137,7 @@
 + [阿里云容器服务](#阿里云容器服务)
 + [同城旅游1](#同城旅游1)
 + [涂鸦](#涂鸦)
++ [腾讯音乐娱乐](#腾讯音乐娱乐)
 
 #### Deepseek
 
@@ -262,6 +263,12 @@ https://github.com/TongchengOpenSource
 
 ```java
 https://github.com/Shopee
+```
+
+#### 腾讯音乐娱乐
+
+```java
+https://github.com/tencentmusic
 ```
 #### 字节跳动推出的开源中间件集
 

@@ -138,6 +138,7 @@
 + [同城旅游1](#同城旅游1)
 + [涂鸦](#涂鸦)
 + [腾讯音乐娱乐](#腾讯音乐娱乐)
++ [阿里巴巴国际数字商务集团的 AI 团队](#阿里巴巴国际数字商务集团的 AI 团队)
 
 #### Deepseek
 
@@ -197,7 +198,10 @@ https://github.com/zhuanzhuanfe
 ```java
 https://github.com/AliyunContainerService
 ```
-
+#### 阿里巴巴国际数字商务集团的 AI 团队
+```java
+https://github.com/AIDC-AI
+```
 #### 蚂蚁集团
 
 ```java

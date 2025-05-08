@@ -1,4 +1,4 @@
-# OpensourceOrganizationAggregation
+# OpensourceOrganization
 搜集互联网大厂和一些优秀的开源组织，因为`如果说我比别人看得更远些，那是因为我站在了巨人的肩上`
 
 ## 写在前面

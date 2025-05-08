@@ -139,6 +139,7 @@
 + [涂鸦](#涂鸦)
 + [腾讯音乐娱乐](#腾讯音乐娱乐)
 + [阿里巴巴国际数字商务集团的 AI 团队](#阿里巴巴国际数字商务集团的 AI 团队)
++ [阿里巴巴档案](#阿里巴巴档案)
 
 #### Deepseek
 
@@ -224,6 +225,10 @@ https://github.com/goofish-shop
 
 ```java
 https://github.com/tuya
+```
+#### 阿里巴巴档案
+```java
+https://github.com/alibaba-archive
 ```
 #### 飞致云
 
